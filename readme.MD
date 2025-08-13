@@ -4,6 +4,5 @@
 # light oil
 
 # karam dosa
-# dosa batter
-# karam added
-# ghee added
+# batter added 
+# 
