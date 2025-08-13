@@ -7,5 +7,5 @@
 # batter added 
 # karam and oil added
 
-# masala dosa
-# aloo added
+# masala dosa 
+# oninon added
