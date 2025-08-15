@@ -12,3 +12,4 @@
 
 # paneer dosa
 * batter added
+* panner added
