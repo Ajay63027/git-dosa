@@ -14,3 +14,4 @@
 * batter added
 * panner added
 * oil added
+* curry added
