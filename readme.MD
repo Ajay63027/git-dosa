@@ -12,3 +12,4 @@
 * masala dosa started
 * aloo added
 * onion added
+* curry added
