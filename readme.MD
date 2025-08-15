@@ -9,7 +9,10 @@
 
 # masala dosa 
 # oninon added
+<<<<<<< HEAD
 * masala dosa started
 * aloo added
 * onion added
 * curry added
+=======
+>>>>>>> parent of 3c80566 (masala dosa stared)
